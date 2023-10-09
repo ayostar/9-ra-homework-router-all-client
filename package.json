@@ -1,5 +1,6 @@
 {
   "name": "9-ra-homework-router-all-client",
+  "homepage": "https://ayostar.github.io/9-ra-homework-router-all-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "nanoid": "^3.0.0",
+    "prop-types": "^15.8.1"
   }
 }
