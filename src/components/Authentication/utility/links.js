@@ -5,7 +5,7 @@ if (url.hostname === 'localhost') {
 }
 
 if (url.hostname === 'ayostar.github.io') {
-  url.hostname = 'nine-ra-homework-router-crud-server.onrender.com';
+  url.hostname = 'nine-ra-homework-router-authentication.onrender.com';
   url.protocol = 'https';
 }
 
