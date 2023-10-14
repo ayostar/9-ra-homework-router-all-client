@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/9-ra-homework-router-all-client/static/css/main.6ad06c37.css",
+    "main.js": "/9-ra-homework-router-all-client/static/js/main.0db91033.js",
+    "static/js/787.bcbe36b5.chunk.js": "/9-ra-homework-router-all-client/static/js/787.bcbe36b5.chunk.js",
+    "static/media/Montserrat-Regular.woff2": "/9-ra-homework-router-all-client/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/9-ra-homework-router-all-client/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/Spinner-1s-200px.svg": "/9-ra-homework-router-all-client/static/media/Spinner-1s-200px.664363ca15ae4c09e711.svg",
+    "index.html": "/9-ra-homework-router-all-client/index.html",
+    "main.6ad06c37.css.map": "/9-ra-homework-router-all-client/static/css/main.6ad06c37.css.map",
+    "main.0db91033.js.map": "/9-ra-homework-router-all-client/static/js/main.0db91033.js.map",
+    "787.bcbe36b5.chunk.js.map": "/9-ra-homework-router-all-client/static/js/787.bcbe36b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad06c37.css",
+    "static/js/main.0db91033.js"
+  ]
+}
